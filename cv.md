@@ -12,5 +12,6 @@ for(i=0;i<Object.values(obj).length;i++){
 }
   return result;
 }"
+### Work experiences: RS-school
 ### Education: Master degree
 ### Lungviges: English, Czech
